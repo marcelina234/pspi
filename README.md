@@ -13,11 +13,16 @@ TODO:
 
 ![wielkość żagla]
 
-| Tables   |      Are      |  Cool |
+| Stopnie [B]  |    Prędkość wiatru      | Typowa wielkość żagla [m2] |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| 1 |  left-aligned | $1600 |
+| 2 |    centered   |   $12 |
+| 3 | right-aligned |    $1 |
+| 4 |  left-aligned | $1600 |
+| 5 |    centered   |   $12 |
+| 6 | right-aligned |    $1 |
+| 7 |  left-aligned | $1600 |
+| 8 |    centered   |   $12 |
 
 
 
