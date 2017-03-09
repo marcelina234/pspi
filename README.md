@@ -11,5 +11,13 @@ TODO:
 
 ##Ocena siły wiatru i właściwy dobór wielkości żagla 
 ![wielkość żagla]
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 > - Eat spaghetti
 > - Drink wine
