@@ -8,3 +8,5 @@ TODO:
 ![plywak](https://prezentmarzen.com/blog/wp-content/uploads/2015/04/Karon-Beach-Hotel-Windsurfing.jpg)
 
 - [ ] :blush:
+# Ocena siły wiatru i właściwy dobór wielkości żagla #
+
