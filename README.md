@@ -9,5 +9,6 @@ TODO:
 
 - [ ] :blush:
 
-# Ocena siły wiatru i właściwy dobór wielkości żagla 
+##Ocena siły wiatru i właściwy dobór wielkości żagla 
+![wielkość żagla](http://www.hotis.pl/content/view/40/71//wp-content/uploads/2010/06/tabela.png)
 
