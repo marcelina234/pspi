@@ -15,15 +15,15 @@ TODO:
 
 | Stopnie [B]  |    Prędkość wiatru      | Typowa wielkość żagla [m2] |
 |----------|:-------------:|------:|
-| 1 |  left-aligned | $1600 |
-| 2 |    centered   |   $12 |
-| 3 | right-aligned |    $1 |
-| 4 |  left-aligned | $1600 |
-| 5 |    centered   |   $12 |
-| 6 | right-aligned |    $1 |
-| 7 |  left-aligned | $1600 |
+|  |  [m/sek] |  |
+| 1 |    centered   |   $12 |
+| 2 | right-aligned |    $1 |
+| 3 |  left-aligned | $1600 |
+| 4 |    centered   |   $12 |
+| 5 | right-aligned |    $1 |
+| 6 |  left-aligned | $1600 |
+| 7 |    centered   |   $12 |
 | 8 |    centered   |   $12 |
-
 
 
 
