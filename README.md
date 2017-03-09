@@ -10,5 +10,6 @@ TODO:
 - [ ] :blush:
 
 ##Ocena siły wiatru i właściwy dobór wielkości żagla 
-![wielkość żagla](http://www.hotis.pl/templates/siteground67/images/arrow.tabela.png)
-
+![wielkość żagla]
+> - Eat spaghetti
+> - Drink wine
