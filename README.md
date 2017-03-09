@@ -9,7 +9,7 @@ TODO:
 
 - [ ] :blush:
 
-##Ocena siły wiatru i właściwy dobór wielkości żagla - [ ] :raised_hands:
+##Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 
 ![wielkość żagla](http://www.hotis.pl/content/view/40/tabela.png)
 
