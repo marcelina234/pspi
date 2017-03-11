@@ -27,6 +27,6 @@ TODO:
 
 
 
-## SIŁA WIATRU
+## JEST MOC !!
 
 ![UPS](https://media.giphy.com/media/cAYRqOgjncVqw/giphy.gif)
