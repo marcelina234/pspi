@@ -30,3 +30,6 @@ TODO:
 ## JEST MOC !!
 
 ![UPS](https://media.giphy.com/media/cAYRqOgjncVqw/giphy.gif)
+
+## Prognoza pogody dla windserfera
+[windguru](https://www.windguru.cz/4909.com)
