@@ -27,5 +27,4 @@ TODO:
 
 
 
-> - siła wiatru
-> - wielkość żagla
+![UPS](https://media.giphy.com/media/cAYRqOgjncVqw/giphy.gif)
