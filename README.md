@@ -1,4 +1,4 @@
-# Techniki internetowe
+# Windsurfing
 
 TODO:
 
