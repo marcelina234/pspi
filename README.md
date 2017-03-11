@@ -13,7 +13,7 @@ TODO:
 
 |Stopnie [B]|Prędkość wiatru|Typowa wielkość żagla [m2]|
 |----------|:-------------:|------:|
-||[m/sek] [km/h]  [węzły]| |[Deskipowyżej 140l]  [Deski 115-130l]  [Deski 95-115l]  [Deski poniżej 95l]|
+||[m/sek] [km/h]  [węzły]|| |[Deskipowyżej 140l]  [Deski 115-130l]  [Deski 95-115l]  [Deski poniżej 95l]|
 | 1 |(0,3-1,5) (1-5) (1-3)|| |
 | 2 |(1,6-3,3) (6-11) (4-6)|| |
 | 3 |(3,4-5,4) (12-19) (7-10)| 8,0-9,0|
