@@ -20,7 +20,7 @@ Sport wodny, uprawiany przy użyciu deski i przymocowanego do niej elastycznie p
 
 W tabeli zestawiono najczęściej używane grupy desek ślizgowych używanych do freeride'u lub jazdy po małych falach i typowe rozmiary żagli używane w zależności od siły wiatru. Zestawienia nie należy traktować dosłownie, a jedynie jako wskazówkę w doborze odpowiedniej wielkości żagla dla osoby pływającej w ślizgu, w stopniu średniozaawansowanym, potrafiącej pływać przy danej sile wiatru i adekwatnym zafalowaniu.
 
-## JEST MOC !!
+## To tylko zawodowcy potrafią plywać w takich warunkach  !!
 
 ![UPS](https://media.giphy.com/media/cAYRqOgjncVqw/giphy.gif)
 
@@ -47,7 +47,7 @@ Dobrze by było, aby deska windsurfingowa była pancerna (odporna na uszkodzenia
 W temacie desek mieczowych czy bezmieczowych zdania są podzielone. Najnowsze trendy odchodzą już od desek mieczowych. Na rynku, od jakiegoś już czasu, istnieją deski bezmieczowe, odpowiednio szerokie i stabilne. Dla początkującego deska bezmieczowa powinna mieć szerokość ok. 80 cm i najprawdopodobniej jest lepszą propozycją niż deska mieczowa – łatwiej na niej nauczyć się sterowania, ale trudniej utrzymać równowagę. 
 
 ## Link do prognozy pogody dla windsurfera
-[windguru](https://www.windguru.cz/4909.com)
+[Windguru](https://www.windguru.cz/4909.com)
 
 
 
