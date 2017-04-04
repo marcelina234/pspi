@@ -28,5 +28,5 @@ Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 
 ![UPS](https://media.giphy.com/media/cAYRqOgjncVqw/giphy.gif)
 
-## Prognoza pogody dla windserfera
+## Link do prognozy pogody dla windserfera
 [windguru](https://www.windguru.cz/4909.com)
