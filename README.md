@@ -30,16 +30,16 @@ W tabeli zestawiono najczęściej używane grupy desek ślizgowych używanych do
 Na rynku do do dyspozycji mamy wielu producentów żagli, w tym między innymi Aerotech, BIC, Bull, Challenger, Ezzy, Naish, Simmer Style, Gaastra czy Hot Sails. Przy wyborze jakość i marka mają oczywiście znaczenie, musisz jednak rozróżniać również typy żagli. Oto one:
 
 1. Żagiel wave:
-Żagiel tego typu przeznaczony jest do cięższych warunków. Sprawdza się przy dużych falach i silnym wietrze. Cechuje się wytrzymałą konstrukcją, a ich kształt i profil są lepsze w manewrowaniu od pozostałych. Poszczególne modele, nawet od tego samego producenta, mogą bardzo różnić się się siłą ciągu.
+ Żagiel tego typu przeznaczony jest do cięższych warunków. Sprawdza się przy dużych falach i silnym wietrze. Cechuje się wytrzymałą konstrukcją, a ich kształt i profil są lepsze w manewrowaniu od pozostałych. Poszczególne modele, nawet od tego samego producenta, mogą bardzo różnić się się siłą ciągu.
 
 2. Żagiel freestyle:
-# We freestyle’u ważne jest szybkie wejście w ślizg, mała waga i dobra manewrowość. Cechy te posiadają zatem żagle przeznaczone do owej dyscypliny. Nadają są dla bardziej zaawansowanych deskarzy. Mają między innymi mniejszą stabilność na halsie, kosztem lepszej manewrowości.
+ We freestyle’u ważne jest szybkie wejście w ślizg, mała waga i dobra manewrowość. Cechy te posiadają zatem żagle przeznaczone do owej dyscypliny. Nadają są dla bardziej zaawansowanych deskarzy. Mają między innymi mniejszą stabilność na halsie, kosztem lepszej manewrowości.
 
 3. Żagle freeride:
-To żagle zaliczane do najpopularniejszych, dzięki swej uniwersalności. Zapewnia ją połączenie zarówno stabilności, jak i manewrowości z dobrym przyśpieszeniem oraz prędkością maksymalną. Żagle freeride są też łatwe w prowadzeniu i wyjątkowo lekkie. Sprawdzają się u osób o różnym poziomie zaawansowania, przez co są najczęściej wybieranym typem żagli.
+ To żagle zaliczane do najpopularniejszych, dzięki swej uniwersalności. Zapewnia ją połączenie zarówno stabilności, jak i manewrowości z dobrym przyśpieszeniem oraz prędkością maksymalną. Żagle freeride są też łatwe w prowadzeniu i wyjątkowo lekkie. Sprawdzają się u osób o różnym poziomie zaawansowania, przez co są najczęściej wybieranym typem żagli.
 
 4. Żagle race:
-Żagle do regat, wyczynowe. Przeznaczone do osiągania dużych prędkości. Szybkość i stabilność ciągu zapewnione są przez głęboki i stały profil. Cechuje je duża rozpiętość rozmiarów. Niepolecane, jeśli nie jesteś na poziomie eksperckim
+ Żagle do regat, wyczynowe. Przeznaczone do osiągania dużych prędkości. Szybkość i stabilność ciągu zapewnione są przez głęboki i stały profil. Cechuje je duża rozpiętość rozmiarów. Niepolecane, jeśli nie jesteś na poziomie eksperckim
 
 
 
