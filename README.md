@@ -2,7 +2,7 @@
 
 - sport wodny, uprawiany przy użyciu deski i przymocowanego do niej elastycznie pędnika żaglowego, polegający na żeglowaniu podobnym do jachtowego, lecz przy pomocy innego sprzętu. Deski o wyporności od 60-70 do ponad 300 litrów, dzielą się na mieczowe i bezmieczowe (o szerokości dochodzącej nawet do 101 cm, tzw. wide-body lub flapery). Pędnik stanowi zespół masztu, bomu oraz żagla o różnej powierzchni (stosuje się różne żagle dla odpowiedniej siły wiatru oraz umiejętności i postury zawodnika, od 0,5 do 12,5 m²). Do połączenia deski z żaglem stosuje się przeguby gumowe.
 
-![plywak](https://www.google.pl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwij9ufInIrTAhXIFZoKHQD1AWAQjRwIBw&url=http%3A%2F%2Fwww.vfw-windsurfing.com%2F&psig=AFQjCNGdQuu9XovbAmLEZ13LtBLED8HCAQ&ust=1491375428183631)
+![plywak](http://www.eastofmauiboardshop.com/images/campaign/11.jpg)
 
 
 
