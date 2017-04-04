@@ -7,7 +7,7 @@ Sport wodny, uprawiany przy użyciu deski i przymocowanego do niej elastycznie p
 ## Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 
 |             | Prędkość wiatru| Typowa wielkość żagla [m2] |
-| ------------- |:-------------: | -----:|
+| ------------- |:-------------: | ------------------------:|
 | Stopnie [B]   |[m/sek] [km/h] [węzły]             | Deski poniżej 95l do powyżej 140l     |
 |   1           | (0,3-1,5)(1-5)(1-3)               |    |
 |   2           | (1,6-3,3)(6-11)(4-6)              |    |
