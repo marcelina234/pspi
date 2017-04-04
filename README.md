@@ -34,7 +34,7 @@ Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 
 |             | Prędkość wiatru| Typowa wielkość żagla [m2] |
 | ------------- |:-------------: | -----:|
-| Stopnie [B]     |[m/sek] [km/h] [węzły]              |       |
+| Stopnie [B]     |[m/sek] [km/h] [węzły]              | Deski poniżej 95l do powyżej 140l     |
 |   1           |                |       |
 |   2           |                |       |
 |   3           |                |       |
