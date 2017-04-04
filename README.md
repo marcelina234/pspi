@@ -19,8 +19,7 @@ Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 |   7           | (13,9-17,1)(50-61)(28-33)         | 4,0-5,0      |
 |   8           | (17,2-20,7)(62-74)(34-40)         | 3,5-4,0      |
 
-W tabeli zestawiono najczęściej używane grupy desek ślizgowych używanych do freeride`u lub jazdy po małych falach i typowe rozmiary żagli używane w zależności od siły wiatru. Zestawienia nie należy traktować dosłownie, a jedynie jako wskazówkę w doborze odpowiedniej wielkości żagla dla osoby pływającej w ślizgu, w stopniu średniozaawansowanym, potrafiącej pływać przy danej sile wiatru i adekwatnym zafalowaniu.
-
+W tabeli zestawiono najczęściej używane grupy desek ślizgowych używanych do freeride'u lub jazdy po małych falach i typowe rozmiary żagli używane w zależności od siły wiatru. Zestawienia nie należy traktować dosłownie, a jedynie jako wskazówkę w doborze odpowiedniej wielkości żagla dla osoby pływającej w ślizgu, w stopniu średniozaawansowanym, potrafiącej pływać przy danej sile wiatru i adekwatnym zafalowaniu.
 
 ## JEST MOC !!
 
