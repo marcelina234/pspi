@@ -1,7 +1,5 @@
 # Windsurfing
 
-TODO:
-
 - [x] sport wodny, uprawiany przy użyciu deski i przymocowanego do niej elastycznie pędnika żaglowego. 
 - [ ] Sport polegający na żeglowaniu podobnym do jachtowego, lecz przy pomocy innego sprzętu. Deski o wyporności od 60-70 do ponad 300 litrów, dzielą się na mieczowe i bezmieczowe (o szerokości dochodzącej nawet do 101 cm, tzw. wide-body lub flapery). Pędnik stanowi zespół masztu, bomu oraz żagla o różnej powierzchni (stosuje się różne żagle dla odpowiedniej siły wiatru oraz umiejętności i postury zawodnika, od 0,5 do 12,5 m²). Do połączenia deski z żaglem stosuje się przeguby gumowe.
 
