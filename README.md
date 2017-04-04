@@ -9,7 +9,7 @@ TODO:
 
 - [ ] :blush:
 
-##Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
+Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 
 |Stopnie [B]|Prędkość wiatru|Typowa wielkość żagla [m2]|
 |----------|:-------------:|------:|
