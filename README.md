@@ -5,7 +5,7 @@
 ![plywak](http://www.eastofmauiboardshop.com/images/campaign/11.jpg)
 
 
-Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
+## Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 
 |             | Prędkość wiatru| Typowa wielkość żagla [m2] |
 | ------------- |:-------------: | -----:|
