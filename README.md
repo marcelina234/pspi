@@ -32,8 +32,8 @@ Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 [windguru](https://www.windguru.cz/4909.com)
 
 
-              | Prędkość wiatru| Typowa wielkość żagla [m2] |
- ------------- |:-------------: | -----:|
+|             | Prędkość wiatru| Typowa wielkość żagla [m2] |
+| ------------- |:-------------: | -----:|
 | Stopnie [B]     |[m/sek] [km/h] [węzły]              |       |
 |   1           |                |       |
 |   2           |                |       |
