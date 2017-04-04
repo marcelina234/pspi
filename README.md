@@ -8,10 +8,10 @@ Sport wodny, uprawiany przy użyciu deski i przymocowanego do niej elastycznie p
 
 |             | Prędkość wiatru| Typowa wielkość żagla [m2] |
 | ------------- |:-------------: | -----:|
-| Stopnie [B]     |[m/sek] [km/h] [węzły]           | Deski poniżej 95l do powyżej 140l     |
+| Stopnie [B]   |[m/sek] [km/h] [węzły]             | Deski poniżej 95l do powyżej 140l     |
 |   1           | (0,3-1,5)(1-5)(1-3)               |    |
 |   2           | (1,6-3,3)(6-11)(4-6)              |    |
-|   3           | (3,4-5,4)(12-19)(7-10)            |8,0-9,0|
+|   3           | (3,4-5,4)(12-19)(7-10)            | 8,0-9,0|
 |   4           | (5,5-7,9)(20-28)(11-15)           | 6,0-8,5|
 |   5           | (8,0-10,7)(29-38)(16-21)          | 5,4-7,5|
 |   6           | (10,8-13,8)(39-49)(22-27)         | 4,5-6,5|
@@ -42,9 +42,9 @@ Na rynku do do dyspozycji mamy wielu producentów żagli, w tym między innymi A
 
 ## Deska dla początkującego windsurfera
 
-Należy zaopatrzyć się w używaną deskę, lub korzystać z wypożyczalni. Najważniejsza zasada: deska nie może być nowa! Dlaczego? Między innymi nowe deski windsurfingowe sporo kosztują, a nie ma możliwości, by początkujący nie uszkodził jej w żaden sposób. Zatem lepiej mniej wydać i nie rozczulać się nad każdym uszkodzeniem deski surfingowej.
-
+Na początek najlepiej zaopatrzyć się w używaną deskę, lub korzystać z wypożyczalni. Najważniejsza zasada: deska nie może być nowa! Dlaczego? Między innymi nowe deski windsurfingowe sporo kosztują, a nie ma możliwości, by początkujący nie uszkodził jej w żaden sposób. Zatem lepiej mniej wydać i nie rozczulać się nad każdym uszkodzeniem deski winsurfingowej.
 Dobrze by było, aby deska windsurfingowa była pancerna (odporna na uszkodzenia); a także w miarę wyporna. Dla ustabilizowania zaleca się dodać do swojej wagi 70.Warto zwrócić również uwagę na to, by deska miała mocne połączenie z masztem.
+W temacie desek mieczowych czy bezmieczowych zdania są podzielone. Najnowsze trendy odchodzą już od desek mieczowych. Na rynku, od jakiegoś już czasu, istnieją deski bezmieczowe, odpowiednio szerokie i stabilne. Dla początkującego deska bezmieczowa powinna mieć szerokość ok. 80 cm i najprawdopodobniej jest lepszą propozycją niż deska mieczowa – łatwiej na niej nauczyć się sterowania, ale trudniej utrzymać równowagę. 
 
 ## Link do prognozy pogody dla windsurfera
 [windguru](https://www.windguru.cz/4909.com)
