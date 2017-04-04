@@ -42,7 +42,7 @@ Na rynku do do dyspozycji mamy wielu producentów żagli, w tym między innymi A
 
 ## Deska dla początkującego windsurfera
 
-Na początek najlepiej zaopatrzyć się w używaną deskę, lub korzystać z wypożyczalni. Najważniejsza zasada: deska nie może być nowa! Dlaczego? Między innymi nowe deski windsurfingowe sporo kosztują, a nie ma możliwości, by początkujący nie uszkodził jej w żaden sposób. Zatem lepiej mniej wydać i nie rozczulać się nad każdym uszkodzeniem deski winsurfingowej.
+Na początek najlepiej zaopatrzyć się w używaną deskę, lub korzystać z wypożyczalni. **Najważniejsza zasada:** deska nie może być nowa! Dlaczego? Między innymi nowe deski windsurfingowe sporo kosztują, a nie ma możliwości, by początkujący nie uszkodził jej w żaden sposób. Zatem lepiej mniej wydać i nie rozczulać się nad każdym uszkodzeniem deski winsurfingowej.
 Dobrze by było, aby deska windsurfingowa była pancerna (odporna na uszkodzenia); a także w miarę wyporna. Dla ustabilizowania zaleca się dodać do swojej wagi 70.Warto zwrócić również uwagę na to, by deska miała mocne połączenie z masztem.
 W temacie desek mieczowych czy bezmieczowych zdania są podzielone. Najnowsze trendy odchodzą już od desek mieczowych. Na rynku, od jakiegoś już czasu, istnieją deski bezmieczowe, odpowiednio szerokie i stabilne. Dla początkującego deska bezmieczowa powinna mieć szerokość ok. 80 cm i najprawdopodobniej jest lepszą propozycją niż deska mieczowa – łatwiej na niej nauczyć się sterowania, ale trudniej utrzymać równowagę. 
 
