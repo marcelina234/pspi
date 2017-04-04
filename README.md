@@ -30,3 +30,10 @@ Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 
 ## Link do prognozy pogody dla windserfera
 [windguru](https://www.windguru.cz/4909.com)
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
