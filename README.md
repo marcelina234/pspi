@@ -33,7 +33,7 @@ Na rynku do do dyspozycji mamy wielu producentów żagli, w tym między innymi A
 Żagiel tego typu przeznaczony jest do cięższych warunków. Sprawdza się przy dużych falach i silnym wietrze. Cechuje się wytrzymałą konstrukcją, a ich kształt i profil są lepsze w manewrowaniu od pozostałych. Poszczególne modele, nawet od tego samego producenta, mogą bardzo różnić się się siłą ciągu.
 
 2. Żagiel freestyle:
-We freestyle’u ważne jest szybkie wejście w ślizg, mała waga i dobra manewrowość. Cechy te posiadają zatem żagle przeznaczone do owej dyscypliny. Nadają są dla bardziej zaawansowanych deskarzy. Mają między innymi mniejszą stabilność na halsie, kosztem lepszej manewrowości.
+# We freestyle’u ważne jest szybkie wejście w ślizg, mała waga i dobra manewrowość. Cechy te posiadają zatem żagle przeznaczone do owej dyscypliny. Nadają są dla bardziej zaawansowanych deskarzy. Mają między innymi mniejszą stabilność na halsie, kosztem lepszej manewrowości.
 
 3. Żagle freeride:
 To żagle zaliczane do najpopularniejszych, dzięki swej uniwersalności. Zapewnia ją połączenie zarówno stabilności, jak i manewrowości z dobrym przyśpieszeniem oraz prędkością maksymalną. Żagle freeride są też łatwe w prowadzeniu i wyjątkowo lekkie. Sprawdzają się u osób o różnym poziomie zaawansowania, przez co są najczęściej wybieranym typem żagli.
