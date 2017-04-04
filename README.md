@@ -40,9 +40,13 @@ Na rynku do do dyspozycji mamy wielu producentów żagli, w tym między innymi A
 4. *Żagle race:*
  - Żagle do regat, wyczynowe. Przeznaczone do osiągania dużych prędkości. Szybkość i stabilność ciągu zapewnione są przez głęboki i stały profil. Cechuje je duża rozpiętość rozmiarów. Niepolecane, jeśli nie jesteś na poziomie eksperckim
 
+## Deska dla początkującego windsurfera
 
+Należy zaopatrzyć się w używaną deskę, lub korzystać z wypożyczalni. Najważniejsza zasada: deska nie może być nowa! Dlaczego? Między innymi nowe deski windsurfingowe sporo kosztują, a nie ma możliwości, by początkujący nie uszkodził jej w żaden sposób. Zatem lepiej mniej wydać i nie rozczulać się nad każdym uszkodzeniem deski surfingowej.
 
-## Link do prognozy pogody dla windserfera
+Dobrze by było, aby deska windsurfingowa była pancerna (odporna na uszkodzenia); a także w miarę wyporna. Dla ustabilizowania zaleca się dodać do swojej wagi 70.Warto zwrócić również uwagę na to, by deska miała mocne połączenie z masztem.
+
+## Link do prognozy pogody dla windsurfera
 [windguru](https://www.windguru.cz/4909.com)
 
 
