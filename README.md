@@ -10,7 +10,7 @@ Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 
 |Stopnie [B]|Prędkość wiatru|Typowa wielkość żagla [m2]|
 |----------|:-------------:|------:|
-||[m/sek] [km/h]  [węzły]|Deski od 140l do 95l|
+||[m/sekm/sek] [km/h]  [węzły][m/sek] [km/h]  
 |1|(0,3-1,5)(1-5)(1-3)| |
 |2|(1,6-3,3)(6-11)(4-6)||
 |3|(3,4-5,4)(12-19)(7-10)|8,0-9,0|
@@ -32,9 +32,9 @@ Ocena siły wiatru i właściwy dobór wielkości żagla  :raised_hands:
 [windguru](https://www.windguru.cz/4909.com)
 
 
-|               | Prędkość wiatru| Typowa wielkość żagla [m2] |
-| ------------- |:-------------: | -----:|
-| Stopnie [B]     |                |       |
+              | Prędkość wiatru| Typowa wielkość żagla [m2] |
+ ------------- |:-------------: | -----:|
+| Stopnie [B]     |[m/sek] [km/h] [węzły]              |       |
 |   1           |                |       |
 |   2           |                |       |
 |   3           |                |       |
