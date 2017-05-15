@@ -1,61 +1,57 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="pl">
- <head>
-  <meta charset="UTF-8">
-  <link rel="Stylesheet" href="css/style.css">
-  <title>Przykładowa strona www wykonana w HTML 5 oraz CSS 2.1 - www.marca.pl</title>
-  <meta name="Description" content="Przykładowa strona www wykonana w HTML 5 oraz CSS 2.1 na potrzebny tutorialu. Autor: Marcelina Krukowska - www.rynko.pl">
-  <link rel="icon" href="link-do-ikony.ico">
- </head>
- <body>
-  <header id="header">
-   <h1><a href="index.html" title="Strona główna">Windsurfing</a></h1>
-   <nav id="menu">
-    <ul>
-     <li><a href="link-do-podstrony.html" title="Tytuł linka">Podstrona</a></li>
-     <li><a href="link-do-podstrony.html" title="Tytuł linka">Podstrona</a></li>
-     <li><a href="link-do-podstrony.html" title="Tytuł linka">Podstrona</a></li>
-     <li><a href="link-do-podstrony.html" title="Tytuł linka">Podstrona</a></li>
-     <li><a href="link-do-podstrony.html" title="Tytuł linka">Podstrona</a></li>
-     <li><a href="link-do-podstrony.html" title="Tytuł linka">Podstrona</a></li>
-     <li><a href="link-do-podstrony.html" title="Tytuł linka">Podstrona</a></li>
-    </ul>
-   </nav>
-  </header>
-  <section id="content">
-   <div class="article">
-    <div class="image">
-     <img src="images/example.jpg" alt="Tekst alternatywny dla obrazka">
-    </div>
-    <div class="article-content">
-     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-     <a href="#read-more">Czytaj więcej</a>
-    </div>
-   </div>
-   <div class="article">
-    <div class="image">
-     <img src="images/example.jpg" alt="Tekst alternatywny dla obrazka">
-    </div>
-    <div class="article-content">
-     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
-     <a href="#read-more">Czytaj więcej</a>
-    </div>
-   </div>
-   <div class="article">
-    <div class="image">
-     <img src="images/example.jpg" alt="Tekst alternatywny dla obrazka">
-    </div>
-    <div class="article-content">
-     <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
-     <a href="#read-more">Czytaj więcej</a>
-    </div>
-   </div>
-  </section>
-  <footer id="footer">
-   <p>Copyright by Marcelina Krukowska &copy; 2017</p>
-   <p>Example website by <a href="http://www.rynko.pl" title="Marcelina Krukowska - portfolio">www.marca.pl</a></p>
-  </footer>
- </body>
+<head>
+    <meta charset="utf-8" />
+	<title>windsurfing</title>
+	<link rel="stylesheet" href="style.css" type="text/css"/>
+	<link rel="stylesheet" href="css/windsurfing.css" type="text/css"/>
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Lato" rel="stylesheet">
+	<script src="timer.js"></script>
+	
+<body onload="odliczanie();">
+
+	<div id="container">
+	
+		<div id="logo">
+		<h1>Najlepsze miejsca do uprawiania windsurfingu </h1>
+		</div>
+		
+		<div id="nav">
+		<div class="option"><a href="stronagłówna.html" class="tilelink">Strona</br>główna</div></a>
+		<div class="option"><a href="hel.html" class="tilelink">Półwysep</br>Helski</div></a>
+		<div class="option"><a href="dahab.html"class="tilelink" >Dahab</div></a>
+		<div class="option"><a href="soma.html" class="tilelink" >Soma Bay</div></a>
+		<div class="option"><a href="rodos.html" class="tilelink">Rodos</div></a>
+		<div class="option"><a href="alacati.html" class="tilelink" >Alacati</div></a>
+		
+		</div>
+	
+		<div id="content">
+		<h2>Gdzie na windsurfing?</h2>
+		
+		Chałupy, Rewa, Łeba, a może Klitmoller lub Dahab. Jadąc w te miejsca,nie będziesz sie nudzić. Możesz liczyć na różne atrakcje turystyczne, 
+		i możesz zabrać całą rodzinę – wszyscy będą zadowoleni.
+		</br></br>
+		No dobrze, jesteś już pewien, że nauka windsurfingu to pomysł dla Ciebie. 
+		Pozostaje jeszcze wybrać miejsce. Zatem gdzie na windsurfing? Poniżej przedstawiam najpopularniejsze i najatrakcyjniejsze kierunki, 
+		w których przez cały sezon można uprawiać windsurfing.
+		<center><img class="grafika" src="img/fot1.jpg"/></center>
+		</div>
+		
+		<div id="ad">
+		<div class="pogoda"><a href="http://windguru.com" class="somlink" target="blank" ><i class="icon-waves"><br/>Pogoda</i></div></a></br>
+		<div class="sklep"><a href="http://hydrosfera.pl" class="somlink" target="blank" ><i class="icon-basket"><br/>Sklep</i></div></a>
+		<div id="zegar">12:00:00</div>
+		<div "clear:both;"></div>
+		</div>
+
+		<div id="footer">
+		<i>2017</i>  &copy; Wszelkie prawa zastrzeżone
+		</div>
+	</div>
+	
+</body>
+
 </html>
   
   
