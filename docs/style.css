@@ -69,7 +69,7 @@ body
 	}
 .pogoda
 {
-	width:100px;
+	width:160px;
 	height:40px;
 	background-color: #d95333;
 	text-align:center;
@@ -82,7 +82,7 @@ body
 .sklep
 {
 	clear:both;
-	width:100px;
+	width:160px;
 	height:40px;
 	background-color: #d95333;
 	text-align:center;
