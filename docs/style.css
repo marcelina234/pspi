@@ -40,6 +40,25 @@ body
 	min-height:620px;
 	padding:10px;
 	border-radius:10px;
+@media screen and (max-width: 900px) {
+    ul.sidenav {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+    ul.sidenav li a {
+        float: left;
+        padding: 15px;
+    }
+    div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+    ul.sidenav li a {
+        text-align: center;
+        float: none;
+    }
+}	
 	}
 #content
 	{
@@ -132,21 +151,4 @@ a.somlink
 {
 	background-color:#b73111;
 }
-.responsive {
-    padding: 0 6px;
-    float: left;
-    width: 24.99999%;
-}
 
-@media only screen and (max-width: 1000px){
-    .responsive {
-        width: 49.99999%;
-        margin: 6px 0;
-    }
-}
-
-@media only screen and (max-width: 500px){
-    .responsive {
-        width: 100%;
-    }
-}
